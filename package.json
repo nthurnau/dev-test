@@ -1,0 +1,27 @@
+{
+  "name": "dev-test",
+  "version": "1.0.0",
+  "description": "Verndale Dev Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicole Thurnau",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-src": "^1.0.0",
+    "gulp-inject": "^4.1.0",
+    "gulp-minify": "0.0.12",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
