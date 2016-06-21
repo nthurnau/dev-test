@@ -34,9 +34,9 @@ The project requirements are listed below and come from the dev test markdown:
 ####Installation Instructions <br>
 To view the code:
 - Download the zip file from the email or clone this repo
-- Open up the terminal and navigate into the directory called dev-test
+- Open up the terminal and navigate into the directory called dev-test <br>
 To run it on a local server:
 - npm install to install all of the NPM dependencies 
-- Spin a server by using your favorite server spinning method (gulp, nodemon, node start.js, node server.js etc)
+- Spin a server by using your favorite server spinning method (gulp, nodemon, node start.js, node server.js etc)<br>
 To view it directly in the browser without running a local server:
 - Navigate to ...[insert link here]
